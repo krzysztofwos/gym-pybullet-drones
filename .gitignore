@@ -1,4 +1,7 @@
-# TODOs 
+# uv
+uv.lock
+
+# TODOs
 TODOs.md
 examples/debug.py
 examples/test.py
